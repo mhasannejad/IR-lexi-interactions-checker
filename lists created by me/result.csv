@@ -1,0 +1,16 @@
+,drug_1_IR_generic,drug_2_IR_generic,drug_1_name,drug_2_name,risk,summary,management
+0,2336,5629,Pantoprazole,Meropenem, No interaction found,,
+1,2336,17886,Pantoprazole,Vancomycin, No interaction found,,
+2,2336,2091,Pantoprazole,Ondansetron, No interaction found,,
+3,2336,53,Pantoprazole,Amikacin (Systemic), No interaction found,,
+4,2336,63,Pantoprazole,Amiodarone, No interaction found,,
+5,5629,17886,Meropenem,Vancomycin, No interaction found,,
+6,5629,2091,Meropenem,Ondansetron, No interaction found,,
+7,5629,53,Meropenem,Amikacin (Systemic), No interaction found,,
+8,5629,63,Meropenem,Amiodarone, No interaction found,,
+9,17886,2091,Vancomycin,Ondansetron, No interaction found,,
+10,17886,53,Vancomycin,Amikacin (Systemic),4,Vancomycin may enhance the nephrotoxic effect of Aminoglycosides. Vancomycin may enhance the neurotoxic effect of Aminoglycosides.,"Consider avoiding coadministration of aminoglycosides and vancomycin unless clinically indicated. If coadministered, monitor closely for signs of nephrotoxicity and neurotoxicity."
+11,17886,63,Vancomycin,Amiodarone, No interaction found,,
+12,2091,53,Ondansetron,Amikacin (Systemic), No interaction found,,
+13,2091,63,Ondansetron,Amiodarone,4,QT-prolonging Agents (Highest Risk) may enhance the QTc-prolonging effect of Ondansetron.,"Consider alternatives to this combination. If use is necessary, monitor for QTc interval prolongation and arrhythmias (including torsades de pointes). Patients with other risk factors (eg, older age, female sex, bradycardia, hypokalemia, hypomagnesemia, heart disease, and higher drug concentrations) or those using IV ondansetron are likely at greater risk for these potentially life-threatening toxicities. <i>See separate drug interaction monographs for drugs listed as ‘Exceptions’ below</i>."
+14,53,63,Amikacin (Systemic),Amiodarone, No interaction found,,
